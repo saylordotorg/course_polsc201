@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC201: Introduction to Western Political Thought"
+course_description: "An examination of the major texts and figures in the history of political thought, including Plato, Machiavelli, and Rousseau. Topics incldue power, justice, rights, law, and other issues pertaining to governance."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC201: Introduction to Western Political Thought"
 -------------------------------------------------------------------------
 

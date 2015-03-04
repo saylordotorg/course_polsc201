@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC201: Introduction to Western Political Thought"
+course_description: "An examination of the major texts and figures in the history of political thought, including Plato, Machiavelli, and Rousseau. Topics incldue power, justice, rights, law, and other issues pertaining to governance."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation's “POLSC201 Final Exam”**
     Link: The Saylor Foundation's [“POLSC201 Final

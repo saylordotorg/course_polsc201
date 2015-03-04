@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC201: Introduction to Western Political Thought"
+course_description: "An examination of the major texts and figures in the history of political thought, including Plato, Machiavelli, and Rousseau. Topics incldue power, justice, rights, law, and other issues pertaining to governance."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Modern Political Thought** <span id="2"></span> 
 *The Greek polis served as an influential model of citizenship and
 governance for centuries. Modern political philosophers, however, found
